@@ -1,4 +1,4 @@
-#Automatyczna stacja pogodowa
+## Automatyczna stacja pogodowa
 
 Stacja służy monitorowania, gromadzenia i analizy danych pogodowych takich jak: 
 -temperatura
