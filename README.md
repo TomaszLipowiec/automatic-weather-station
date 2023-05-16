@@ -1,6 +1,6 @@
 ## Automatyczna stacja pogodowa
 
-Stacja służy monitorowania, gromadzenia i analizy danych pogodowych takich jak: 
+Stacja służy do monitorowania, gromadzenia i analizy danych pogodowych takich jak: 
 - temperatura
 - ciśnienie
 - siła i kierunek wiatru
